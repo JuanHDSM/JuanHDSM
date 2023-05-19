@@ -2,7 +2,7 @@
 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=JuanHDSM&rank_icon=github&include_all_commits=true&hide=contribs,issues&count_private=true&card_height=500&show_icons=true&theme=transparent">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHDSM&hide_title=true&layout=compact&hide_progress=false&langs_count=10&theme=transparent">
 
-## Tecnology
+## Languages
 <div style="display inline_block">
   <img align="center" alt="Juan-Java" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Juan-Java" heigth="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
