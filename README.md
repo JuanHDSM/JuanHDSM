@@ -16,6 +16,6 @@
 
 ## About
 
-- 👩‍💻 I’m currently working React
+- 👩‍💻 I’m currently working Java
 - 🌱 I’m currently learning Java and Spring
 - 📘 I’m currently studing systems analysis and development
